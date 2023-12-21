@@ -9,7 +9,7 @@ const Home = () => {
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-extrabold leading-tight bg-clip-text text-transparent bg-gradient-to-r from-green-400 via-blue-500 to-purple-600">
             Character World Conquest
           </h1>
-          <p className="mt-6 text-xl md:text-2xl">
+          <p className="mt-6 text-xl md:text-1xl">
             Describe your ultimate character and watch them conquer the world in an epic comic saga. With a few keystrokes, unleash the power of storytelling and witness your creation's rise to glory.
           </p>
           <div className="mt-10 flex flex-col md:flex-row justify-center items-center gap-4">
